@@ -6,5 +6,5 @@ def smallest hash value(name_hash)
 hash.each do |key|
   if smallest hash value == ""
     puts nil
-end
+  end
 end
